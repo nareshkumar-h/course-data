@@ -11,27 +11,39 @@
     "order": "2"
   },
   {
+    "title": "CSS",
+    "permalink": "css",
+    "order": "3",
+    "tags": "css"
+  },
+  {
     "title": "Bootstrap",
     "permalink": "bootstrap",
-    "order": "3",
+    "order": "4",
     "tags": "bootstrap"
+  },
+   {
+    "title": "Tailwind",
+    "permalink": "tailwindcss",
+    "order": "5",
+    "tags": "tailwind"
   },
   {
     "title": "NodeJS",
     "permalink": "nodejs",
-    "order": "4",
+    "order": "6",
     "tags": "nodejs"
   },
   {
     "title": "Angular",
     "permalink": "angular",
-    "order": "5",
+    "order": "7",
     "tags": "angular"
   },
   {
     "title": "Next.js",
     "permalink": "nextjs",
-    "order": "6",
+    "order": "8",
     "tags": "nextjs"
   }
 ]
