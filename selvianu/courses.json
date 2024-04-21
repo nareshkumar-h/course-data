@@ -2,56 +2,56 @@
         {
             "title" : "Programming Fundamentals",
             "permalink": "java",
-            "order": 1,
+            "order": "1",
             "tags": "java"
         },
         {
             "title" : "Core Java",
             "permalink": "corejava",
-            "order": 2,
+            "order": "2",
             "tags": "CoreJava",
         },
         {
             "title" : "MySQL",
             "permalink": "mysql",
-            "order": 3,
+            "order": "3",
             "tags":"mysql"
         },
         {
             "title" : "HTML",
             "permalink": "html",
-            "order": 4,
+            "order": "4",
             "permalink": "html",
         },
         {
             "title" : "JavaScript",
             "permalink": "javascript",
-            "order": 5,
+            "order": "5,
             "tags": "javascript",
         },
         {
             "title" : "Bootstrap",
             "permalink": "bootstrap",
-            "order": 6,
+            "order": "6",
             "tags":"bootstrap"
         },
        
         {
             "title" : "Servlets/JSP",
             "permalink": "servletjsp",
-            "order": 8,
+            "order": "8",
             "tags":"servletjsp"
         },
         {
             "title" : "Angular",
             "permalink": "angular",
-            "order": 9,
+            "order": "9",
             "tags":"angular"
         },
         {
             "title" : "Projects",
             "permalink": "projects",
-            "order": 10,
+            "order": "10",
             "tags":"projects"
         }
     ]
