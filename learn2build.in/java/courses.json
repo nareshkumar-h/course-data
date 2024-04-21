@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Programming Fundamentals",
+    "permalink": "java",
+    "order": "1",
+    "tags": "java"
+  },
+  {
+    "title": "Core Java",
+    "permalink": "corejava",
+    "order": "2"
+  },
+  {
+    "title": "Servlet/JSP",
+    "permalink": "servletjsp",
+    "order": "3",
+    "tags": "servletjsp"
+  },
+  {
+    "title": "Spring",
+    "permalink": "spring",
+    "order": "4",
+    "tags": "spring"
+  },
+   {
+    "title": "Hibernate",
+    "permalink": "hibernate",
+    "order": "5",
+    "tags": "hibernate"
+  },
+  {
+    "title": "Maven",
+    "permalink": "maven",
+    "order": "6",
+    "tags": "maven"
+  }
+]
