@@ -9,7 +9,7 @@
             "title" : "Core Java",
             "permalink": "corejava",
             "order": "2",
-            "tags": "CoreJava",
+            "tags": "CoreJava"
         },
         {
             "title" : "MySQL",
@@ -21,13 +21,13 @@
             "title" : "HTML",
             "permalink": "html",
             "order": "4",
-            "permalink": "html",
+            "permalink": "html"
         },
         {
             "title" : "JavaScript",
             "permalink": "javascript",
             "order": "5",
-            "tags": "javascript",
+            "tags": "javascript"
         },
         {
             "title" : "Bootstrap",
