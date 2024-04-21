@@ -1,0 +1,45 @@
+[ 
+  {
+    "title": "Git",
+    "permalink": "git",
+    "order": "1",
+    "tags": "git"
+  },
+   {
+    "title": "Maven",
+    "permalink": "maven",
+    "order": "2",
+    "tags": "maven"
+  },
+  {
+    "title": "SonarCloud",
+    "permalink": "sonarcloud",
+    "order": "3"
+  },
+  {
+    "title": "Jenkins",
+    "permalink": "jenkins",
+    "order": "4"
+  },
+  {
+    "title": "AWS",
+    "permalink": "aws",
+    "order": "5"
+  },
+  {
+    "title": "Docker",
+    "permalink": "docker",
+    "order": "6"
+  },
+   {
+    "title": "Traefik",
+    "permalink": "traefik",
+    "order": "7"
+  },
+   {
+    "title": "Portainer",
+    "permalink": "portainer",
+    "order": "8"
+  }
+  
+]
