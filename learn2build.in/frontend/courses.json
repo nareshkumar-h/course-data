@@ -1,0 +1,37 @@
+[
+  {
+    "title": "HTML",
+    "permalink": "html",
+    "order": "1",
+    "tags": "html"
+  },
+  {
+    "title": "JavaScript",
+    "permalink": "javascript",
+    "order": "2"
+  },
+  {
+    "title": "Bootstrap",
+    "permalink": "bootstrap",
+    "order": "3",
+    "tags": "bootstrap"
+  },
+  {
+    "title": "NodeJS",
+    "permalink": "nodejs",
+    "order": "4",
+    "tags": "nodejs"
+  },
+  {
+    "title": "Angular",
+    "permalink": "angular",
+    "order": "5",
+    "tags": "angular"
+  },
+  {
+    "title": "Next.js",
+    "permalink": "nextjs",
+    "order": "6",
+    "tags": "nextjs"
+  }
+]
