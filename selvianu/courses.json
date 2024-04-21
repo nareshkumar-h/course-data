@@ -26,7 +26,7 @@
         {
             "title" : "JavaScript",
             "permalink": "javascript",
-            "order": "5,
+            "order": "5",
             "tags": "javascript",
         },
         {
