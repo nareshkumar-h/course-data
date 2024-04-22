@@ -6,8 +6,33 @@
     "tags": "manualtesting"
   },
   {
+    "title": "Postman",
+    "permalink": "postman",
+    "order": "2"
+  },
+  {
     "title": "Selenium",
     "permalink": "selenium",
-    "order": "2"
-  }
+    "order": "3"
+  },
+   {
+    "title": "TestNG",
+    "permalink": "testng",
+    "order": "4"
+  },
+  {
+    "title": "Cucumber",
+    "permalink": "cucumber",
+    "order": "5"
+  },
+  {
+    "title": "Playwright",
+    "permalink": "playwright",
+    "order": "6"
+  },
+  {
+    "title": "JMeter",
+    "permalink": "jmeter",
+    "order": "7"
+  } 
 ]
