@@ -16,5 +16,11 @@
     "permalink": "promptengineering",
     "order": "3",
     "tags": "promptengineering"
-  }
+  },
+  {
+    "title": "Generative AI",
+    "permalink": "generativeai",
+    "order": "4",
+    "tags": "generativeai"
+  }  
 ]
