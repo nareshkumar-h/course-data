@@ -1,0 +1,14 @@
+[ 
+  {
+    "title": "Machine Learning",
+    "permalink": "machinelearning",
+    "order": "1",
+    "tags": "machinelearning"
+  },
+    {
+    "title": "Data Science",
+    "permalink": "datascience",
+    "order": "2",
+    "tags": "datascience"
+  }
+]
