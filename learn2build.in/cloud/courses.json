@@ -1,0 +1,14 @@
+[ 
+  {
+    "title": "AWS",
+    "permalink": "aws",
+    "order": "1",
+    "tags": "aws"
+  },
+  {
+    "title": "Terraform",
+    "permalink": "terraform",
+    "order": "2",
+    "tags": "terraform"
+  }
+]
