@@ -33,10 +33,16 @@
     "order": "6",
     "tags": "nestjs"
   },
+   {
+    "title": "Integrations",
+    "permalink": "integrations",
+    "order": "7",
+    "tags": "integrations"
+  },
   {
     "title": "Projects",
     "permalink": "projects",
-    "order": "6",
+    "order": "8",
     "tags": "projects"
   }
 ]
