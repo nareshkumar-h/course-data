@@ -1,0 +1,20 @@
+[ 
+  {
+    "title": "ChatGPT",
+    "permalink": "chatgpt",
+    "order": "1",
+    "tags": "chatgpt"
+  },
+  {
+    "title": "Copilot",
+    "permalink": "copilot",
+    "order": "2",
+    "tags": "copilot"
+  },
+  {
+    "title": "Prompt Engineering",
+    "permalink": "promptengineering",
+    "order": "3",
+    "tags": "promptengineering"
+  }
+]
