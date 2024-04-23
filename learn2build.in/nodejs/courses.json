@@ -27,10 +27,16 @@
     "order": "5",
     "tags": "restapi"
   },
-    {
+  {
     "title": "NestJS",
     "permalink": "nestjs",
     "order": "6",
     "tags": "nestjs"
+  },
+  {
+    "title": "Projects",
+    "permalink": "projects",
+    "order": "6",
+    "tags": "projects"
   }
 ]
